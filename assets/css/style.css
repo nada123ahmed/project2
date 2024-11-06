@@ -1,0 +1,81 @@
+body {
+    color: rgb(169, 169, 169);
+    line-height: 30px;
+}
+
+.banner-slider {
+     margin-top: 10px;
+}
+
+.about {
+    margin-top: 10px;
+}
+
+.about h2 {
+    text-transform: uppercase;
+}
+
+.about .about-box {
+    margin: 20px 0;
+    padding: 20px 0;
+    box-shadow: 0 0 4px 2px gray;
+}
+
+.about .about-text {
+    margin-top: 60px;
+}
+
+.about .about-box h5 {
+    margin-bottom: 2rem;
+}
+
+.services {
+    margin-top: 10px;
+}
+
+.services h2 {
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+
+}
+
+.services .service-text {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    color: white;
+    transform: translate(-50%,-50%);
+}
+
+.blogs {
+    margin-top: 5rem;
+    padding: 2rem 0 4rem 0;
+    background: url(../../img/teams.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.blogs h2 {
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+.contact {
+    margin-top: 4rem;
+}
+
+.contact i {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+footer {
+    margin-top: 5rem;
+}
+.sections {
+    margin-left: 10px;
+    position: relative;
+    bottom: 50px;
+}
